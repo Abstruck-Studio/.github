@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=Abstruck-Studio&color=pink) [![][Official-website-ima]][Official-website] [![][MCMOD-ima]][MCMOD]
+![](https://komarev.com/ghpvc/?username=Abstruck-Studio&color=f1948a) [![][Official-website-ima]][Official-website] [![][MCMOD-ima]][MCMOD]
 ## Hi👋 We are Abstruckers!
 
 [MCMOD-ima]:https://img.shields.io/badge/MCMOD-Abstruck-green
