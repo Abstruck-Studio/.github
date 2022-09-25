@@ -19,6 +19,8 @@ And we are also trying to do something useful, we are still learning!
   
 Moreover, if you want to join us, you can pull issues [here](https://github.com/Abstruck-Studio/.github/issues), and tell us what you can do.
 
+![ico](https://avatars.githubusercontent.com/u/99525714?s=400&u=468cd6da0b3f2c2c2d738c554c1fdc6861610b71&v=4)
+
 
 [MCMOD-ima]:https://img.shields.io/badge/MCMOD-Abstruck-green
 [MCMOD]:https://www.mcmod.cn/author/25485.html
