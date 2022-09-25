@@ -17,7 +17,7 @@ So, in the next year (i.e. __2020__), we changed it into __*Abstruck*__.
 __*Abstruck*__ is a word from __abstract__ which means __incomprehensible__ or __unfathomable__.  
 And we are also trying to do something useful, we are still learning!  
   
-Moreover, if you want to join us, you can.
+Moreover, if you want to join us, you can pull issues [here](https://github.com/Abstruck-Studio/.github/issues), and tell us what you can do.
 
 
 [MCMOD-ima]:https://img.shields.io/badge/MCMOD-Abstruck-green
