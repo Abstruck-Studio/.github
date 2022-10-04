@@ -19,6 +19,8 @@ And we are also trying to do something useful, we are still learning!
   
 Moreover, if you want to join us, you can pull issues [**here**](https://github.com/Abstruck-Studio/.github/issues), and tell us what you can do.
 
+Don't forget, October 5 is celebrated every year as the anniversary of the organization's founding.
+
 ![ico](https://avatars.githubusercontent.com/u/99525714?s=400&u=468cd6da0b3f2c2c2d738c554c1fdc6861610b71&v=4)
 
 
